@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinit Tejwani</h1>
 <h3 align="center">Mobile & IoT Developer | Flutter | iOS | Android</h3>
 
----
 
 ### 🔹 About Me
 - 📱 **Mobile & IoT Developer** with expertise in **Flutter, Swift, and Android**  
